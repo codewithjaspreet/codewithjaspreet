@@ -47,9 +47,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://codewithjaspreet.github.io/Portfolio-Website/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/jaspreet-singh-sodhi-533319200/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/talk.wid.tech/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:E20CSE397@bennett.edu.in"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://codewithjaspreet.github.io/Portfolio-Website/"><img alt="Website" src="https://img.shields.io/badge/Website-www.JaspreetSingh.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/jaspreet-singh-sodhi-533319200/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jaspreet%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/talk.wid.tech/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-talk.wid.techvs__-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:E20CSE397@bennett.edu.in"><img alt="Email" src="https://img.shields.io/badge/Email-E20CSE397@bennett.edu.in-blue?style=flat-square&logo=gmail"></a>
 </p>
 
