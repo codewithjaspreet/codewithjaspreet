@@ -32,12 +32,12 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  ![Canva Pro](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/codewithjaspreet">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
 </a>
@@ -49,7 +49,7 @@
 <p align="center">
 <a href="https://codewithjaspreet.github.io/Portfolio-Website/"><img alt="Website" src="https://img.shields.io/badge/Website-www.JaspreetSingh.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/jaspreet-singh-sodhi-533319200/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jaspreet%20Singh%20Sodhi-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/talk.wid.tech/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-talk.wid.tech vs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/talk.wid.tech/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-talk.wid.tech   vs__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:E20CSE397@bennett.edu.in"><img alt="Email" src="https://img.shields.io/badge/Email-E20CSE397@bennett.edu.in-blue?style=flat-square&logo=gmail"></a>
 </p>
 
