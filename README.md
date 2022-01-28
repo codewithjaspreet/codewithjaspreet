@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at Bennett University.
-- 💼 &nbsp; Currently focusing on Data Structures & Alogorithms for Interviews.
+- 💼 &nbsp; Currently focusing on Data Structures & Algorithms for Interviews.
 - 🌱 &nbsp; keen to know more about Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and creating coding content for my Instagram page as hobbies/side hustles.
 
