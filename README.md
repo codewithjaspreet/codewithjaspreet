@@ -1,55 +1,41 @@
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQFJXOJgBLHSyQ/profile-displaybackgroundimage-shrink_200_800/0/1642096779532?e=1652918400&v=beta&t=V4Z80ydCv4x2qjnb8ghk8rjvb5hBrdafiPDeAEyMNQs)]
+<h1 align="center">Hi 👋, I'm Jaspreet Singh Sodhi</h1>
+<h3 align="center">A passionate Mobile Application developer ,Machine learning Enthusiast & a Problem Solver from India</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithjaspreet&label=Profile%20views&color=0e75b6&style=flat" alt="codewithjaspreet" /> </p>
 
+- 🌱 I’m currently learning **Flutter**
 
-<h2> Hey there! I'm Jaspreet.</h2>
+- 👨‍💻 All of my projects are available at [https://codewithjaspreet.github.io/Portfolio-Website/](https://codewithjaspreet.github.io/Portfolio-Website/)
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+- 📝 I regularly write articles on [https://jaspreetsodhi02.medium.com/](https://jaspreetsodhi02.medium.com/)
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science at Bennett University.
-- 💼 &nbsp; Currently focusing on Data Structures & Algorithms for Interviews.
-- 🌱 &nbsp; keen to know more about Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and creating coding content for my Instagram page as hobbies/side hustles.
+- 💬 Ask me about **React, Flutter , Frontend Development & Data Structures & Algorithms**
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+- 📫 How to reach me **jaspreetsodhi02@gmail.com**
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Canva Pro](https://img.shields.io/badge/-adobephotoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+- ⚡ Fun fact **I am Funny :)**
 
-<br/>
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<a href="https://github.com/codewithjaspreet">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codewithjaspreet&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithjaspreet&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://codewithjaspreet.github.io/Portfolio-Website/"><img alt="Website" src="https://img.shields.io/badge/Website-www.JaspreetSingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/jaspreet-singh-sodhi-533319200/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jaspreet%20Singh%20Sodhi-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/talk.wid.tech/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-talk.wid.tech   vs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:E20CSE397@bennett.edu.in"><img alt="Email" src="https://img.shields.io/badge/Email-E20CSE397@bennett.edu.in-blue?style=flat-square&logo=gmail"></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jaspreet-singh-sodhi-533319200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jaspreet-singh-sodhi-533319200/" height="30" width="40" /></a>
+<a href="https://instagram.com/jassie__5911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jassie__5911" height="30" width="40" /></a>
+<a href="https://medium.com/@jaspreetsodhi02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jaspreetsodhi02" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jaspreetsodhi02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jaspreetsodhi02" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/leetcodejassi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcodejassi" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/jaspreetsodhi02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jaspreetsodhi02" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithjaspreet&show_icons=true&locale=en&layout=compact" alt="codewithjaspreet" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithjaspreet&show_icons=true&locale=en" alt="codewithjaspreet" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithjaspreet&" alt="codewithjaspreet" /></p>
 
