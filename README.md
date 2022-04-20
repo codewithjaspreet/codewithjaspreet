@@ -39,3 +39,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithjaspreet&" alt="codewithjaspreet" /></p>
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=codewithjaspreet&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
