@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/itjFesV8_RUAAAAj/soulja-boy-pepe.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithjaspreet&label=Profile%20views&color=0e75b6&style=flat" alt="codewithjaspreet" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter** & grinding on **Leetcode**
 
 - 👨‍💻 All of my projects are available at [https://codewithjaspreet.github.io/Portfolio-Website/](https://codewithjaspreet.github.io/Portfolio-Website/)
 
