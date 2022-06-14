@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React, Flutter , Frontend Development & Data Structures & Algorithms**
 
-- 🏆  Solved 270+ Question on Leetcode
+- 🏆  Solved 270+ Questions on Leetcode
 
 - 🏆  Institute Rank 40 on Gfg
 
