@@ -4,13 +4,17 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/itjFesV8_RUAAAAj/soulja-boy-pepe.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithjaspreet&label=Profile%20views&color=0e75b6&style=flat" alt="codewithjaspreet" /> </p>
 
-- 🌱 I’m currently learning **Flutter** & grinding on **Leetcode**
+- 🌱 I’m currently learning **Flutter** 
 
 - 👨‍💻 All of my projects are available at [https://codewithjaspreet.github.io/Portfolio-Website/](https://codewithjaspreet.github.io/Portfolio-Website/)
 
 - 📝 I regularly write articles on [https://jaspreetsodhi02.medium.com/](https://jaspreetsodhi02.medium.com/)
 
 - 💬 Ask me about **React, Flutter , Frontend Development & Data Structures & Algorithms**
+
+- 🏆  Solved 270+ Question on Leetcode
+
+- 🏆  Institute Rank 40 on Gfg
 
 - 📫 How to reach me **jaspreetsodhi02@gmail.com**
 
