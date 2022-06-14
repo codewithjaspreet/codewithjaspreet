@@ -18,6 +18,8 @@
 
 - 📫 How to reach me **jaspreetsodhi02@gmail.com**
 
+- 💪 Visit & Checkout me as a Content Creator - https://talk-widtech.web.app/ || https://www.instagram.com/talk.wid.tech/?hl=en  
+
 - ⚡ Fun fact **I am Funny :)**
 
 ### Blogs posts
