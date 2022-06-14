@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter** 
 
-- 👨‍💻 All of my projects are available at [https://codewithjaspreet.github.io/Portfolio-Website/](https://codewithjaspreet.github.io/Portfolio-Website/)
+- 👨‍💻 Visit My portfolio - [https://codewithjaspreet.github.io/Portfolio-Website/](https://codewithjaspreet.github.io/Portfolio-Website/)
 
 - 📝 I regularly write articles on [https://jaspreetsodhi02.medium.com/](https://jaspreetsodhi02.medium.com/)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **jaspreetsodhi02@gmail.com**
 
-- 💪 Visit & Checkout me as a Content Creator - https://talk-widtech.web.app/ || https://www.instagram.com/talk.wid.tech/?hl=en  
+- 💪 Visit & Checkout me as a Content Creator - https://talk-widtech.web.app/  ||  https://www.instagram.com/talk.wid.tech/?hl=en  
 
 - ⚡ Fun fact **I am Funny :)**
 
