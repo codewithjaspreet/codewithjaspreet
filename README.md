@@ -13,7 +13,7 @@
 
 - 🏆  Solved 270+ Questions on Leetcode
 
-- 🏆  Institute Rank 40 on Gfg
+- 🏆  Institute Rank <= 40 on Gfg
 
 - 📫 How to reach me **jaspreetsodhi02@gmail.com**
 
