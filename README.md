@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://jaspreetsodhi02.medium.com/](https://jaspreetsodhi02.medium.com/)
 
-- 💬 Ask me about **React, Flutter , Frontend Development & Data Structures & Algorithms**
+- 💬 Ask me about **React, Flutter , Frontend Development & DSAlgo**
 
 - 🏆  Solved 270+ Questions on Leetcode
 
