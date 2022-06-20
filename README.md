@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **React, Flutter , Frontend Development & DSAlgo**
 
-- 🏆  Solved 270+ Questions on Leetcode
+- 🏆  Solved 300+ Questions on Leetcode
 
-- 🏆  Institute Rank <= 40 on Gfg
+- 🏆  Institute Rank <= 38 on Gfg
 
 - 📫 How to reach me **jaspreetsodhi02@gmail.com**
 
