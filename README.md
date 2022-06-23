@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jaspreet-singh-sodhi-533319200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jaspreet-singh-sodhi-533319200/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jaspreetsodhi482/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jaspreet-singh-sodhi-533319200/" height="30" width="40" /></a>
 <a href="https://instagram.com/jassie__5911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jassie__5911" height="30" width="40" /></a>
 <a href="https://medium.com/@jaspreetsodhi02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jaspreetsodhi02" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jaspreetsodhi02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jaspreetsodhi02" height="30" width="40" /></a>
