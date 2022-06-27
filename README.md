@@ -13,7 +13,7 @@
 
 - 🏆  Solved 300+ Questions on Leetcode
 
-- 🏆  Institute Rank <= 38 among 1000+ collegeMates on Geeksforgeeks
+- 🏆  Institute Rank <= 38 among 1000+ CollegeMates on Geeksforgeeks
 
 - 📫 How to reach me **jaspreetsodhi02@gmail.com**
 
