@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter** 
 
-- 🌱 I’m currently buidling **Nectar** 
+- 🌱 I’m currently buidling **NectarDating** 
 
 - 👨‍💻 Visit My portfolio - [https://codewithjaspreet.github.io/Portfolio-Website/](https://codewithjaspreet.github.io/Portfolio-Website/)
 
