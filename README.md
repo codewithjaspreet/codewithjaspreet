@@ -21,7 +21,7 @@
 
 - 💪 Visit & Checkout me as a Content Creator - https://talk-widtech.web.app/  ||  https://www.instagram.com/talk.wid.tech/?hl=en  
 
-- ⚡ Fun fact **I am Funny :)**
+- ⚡ Fun fact **I am Funny:)**
 
 
 <h3 align="left">Connect with me :</h3>
