@@ -9,6 +9,8 @@
 
 - 📝 I regularly write articles on [https://jaspreetsodhi02.medium.com/](https://jaspreetsodhi02.medium.com/)
 
+- ⚡ CodeStudio Profile link -  https://www.codingninjas.com/codestudio/profile/81c3ce70-954c-4d47-b5d4-a3fc6cec3d0e
+
 - 💬 Ask me about **React, Flutter , Frontend Development & DSAlgo**
 
 - 🏆  Solved 350+ Questions on Leetcode
