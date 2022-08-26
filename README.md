@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, Flutter , Frontend Development & DSAlgo**
 
-- 🏆  Solved 350+ Questions on Leetcode
+- 🏆  Solved 400+ Questions on Leetcode
 
 - 🏆  Institute Rank <= 38 among 1000+ CollegeMates on Geeksforgeeks
 
