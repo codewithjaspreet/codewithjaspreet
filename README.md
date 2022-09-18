@@ -11,7 +11,7 @@
 
 - ⚡ CodeStudio Profile link -  https://www.codingninjas.com/codestudio/profile/81c3ce70-954c-4d47-b5d4-a3fc6cec3d0e
 
-- 💬 Ask me about **React, Flutter , Frontend Development & DSAlgo**
+- 💬 Ask me about **React, Flutter , Frontend Development &  DSAlgo**
 
 - 🏆  Solved 400+ Questions on Leetcode
 
