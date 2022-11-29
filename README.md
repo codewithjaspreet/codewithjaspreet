@@ -11,7 +11,7 @@
 
 - ⚡ CodeStudio Profile link -  https://www.codingninjas.com/codestudio/profile/81c3ce70-954c-4d47-b5d4-a3fc6cec3d0e
 
-- ⚡ InterviewBit Profile link  - https://www.interviewbit.com/profile/jaspreet-singh_181_463
+- ⚡ InterviewBit Profile link   - https://www.interviewbit.com/profile/jaspreet-singh_181_463
 
 - 💬 Ask me about **React, Flutter , Frontend Development &  DSAlgo**
 
