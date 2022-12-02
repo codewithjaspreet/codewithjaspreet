@@ -13,7 +13,7 @@
 
 - ⚡ InterviewBit Profile link   - https://www.interviewbit.com/profile/jaspreet-singh_181_463
 
-- 💬 Ask me about **React, Flutter , Frontend Development &  DSAlgo**
+- 💬 Ask me about **React, Flutter , Frontend Development &  DSAlgo **
 
 - 🏆  Solved 480+ Questions on Leetcode
 
