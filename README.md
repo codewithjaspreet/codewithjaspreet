@@ -7,6 +7,8 @@
 
 - 👨‍💻 Visit My portfolio - [https://codewithjaspreet.github.io/Portfolio-Website/](https://codewithjaspreet.github.io/Portfolio-Website/)
 
+- 📝 Link to my Resume - https://drive.google.com/file/d/16OwJIsFYvpsZETUEWJuxLSbG6mGdhf68/view?usp=sharing
+
 - 📝 I regularly write articles on [https://jaspreetsodhi02.medium.com/](https://jaspreetsodhi02.medium.com/)
 
 - ⚡ CodeStudio Profile link -  https://www.codingninjas.com/codestudio/profile/81c3ce70-954c-4d47-b5d4-a3fc6cec3d0e
