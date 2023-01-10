@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Mobile Application developer, Machine learning Enthusiast & a Problem Solver from India  </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithjaspreet&label=Profile%20views&color=0e75b6&style=flat" alt="codewithjaspreet" /> </p>
 
-- 🌱 I’m  currently learning **Flutter** 
+- 🌱 I’m  currently working in **NLP** 
 
 - 👨‍💻 Visit My portfolio - [https://codewithjaspreet.github.io/Portfolio-Website/](https://codewithjaspreet.github.io/Portfolio-Website/)
 
