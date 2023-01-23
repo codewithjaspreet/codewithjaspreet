@@ -11,6 +11,8 @@
 
 - 📝 I regularly write articles on [https://jaspreetsodhi02.medium.com/](https://jaspreetsodhi02.medium.com/)
 
+-  ⚡ Leetcode Profile link   - https://leetcode.com/leetcodejassi/
+
 - ⚡ CodeStudio Profile link -  https://www.codingninjas.com/codestudio/profile/81c3ce70-954c-4d47-b5d4-a3fc6cec3d0e
 
 - ⚡ InterviewBit Profile link   - https://www.interviewbit.com/profile/jaspreet-singh_181_463
