@@ -1,9 +1,39 @@
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> सत श्री अकाल (Satshriakal)🙏🏻, I'm Jaspreet Singh Sodhi! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Deep Learning Research Intern at <a href="https://www.manupatrafast.com/Home.aspx">Manupatra
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<h1 align="center">Hi 👋,I'm Jaspreet Singh Sodhi</h1>
-<h3 align="center">A passionate Mobile Application developer, Machine learning Enthusiast & a Problem Solver from India  </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithjaspreet&label=Profile%20views&color=0e75b6&style=flat" alt="codewithjaspreet" /> </p>
+👇 Hit in your console or terminal to connect with me.
 
-- 🌱 I’m  currently working in **NLP** 
+```bash
+npx jassie
+```
+**👆 This command line tool can be found at [npx jassie](https://github.com/codewithjaspreet/npx-jassi)**
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const jassi = {
+    pronouns: "He" | "Him",
+    code: ["Java", "Python", "Dart", "Kotlin" , "JavaScript"],
+    askMeAbout: ["web dev", "tech", "app dev", "content-creation", "machine-learning"],
+    technologies: {
+        backEnd: {
+            js: ["Node" , "Express" , "sanity" , "Room DB"],
+        },
+        mobileApp: {
+            native: ["Android Development"]
+        },
+        Framework: ["Flutter", "React"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase","open-cv",]
+    },
+    architecture: ["", "Progressive web applications", "Single page applications"],
+    currentFocus: "keeps changing",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
 - 👨‍💻 Visit My portfolio - [https://codewithjaspreet.github.io/Portfolio-Website/](https://codewithjaspreet.github.io/Portfolio-Website/)
 
@@ -51,5 +81,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithjaspreet&" alt="codewithjaspreet" /></p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=codewithjaspreet&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
