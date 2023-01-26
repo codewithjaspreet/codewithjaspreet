@@ -1,5 +1,5 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> सत श्री अकाल (Satshriakal)🙏🏻, I'm Jaspreet Singh Sodhi! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
 <p><em>Deep Learning Research Intern at <a href="https://www.manupatrafast.com/Home.aspx">Manupatra
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -29,37 +29,36 @@ const jassi = {
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase","open-cv",]
     },
-    architecture: ["", "Progressive web applications", "Single page applications"],
+    architecture: ["Progressive web applications", "Single page applications"],
     currentFocus: "keeps changing",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
+ ----
+<h1>Important Links ~ ~ </h1>
 
-- 👨‍💻 Visit My portfolio - [https://codewithjaspreet.github.io/Portfolio-Website/](https://codewithjaspreet.github.io/Portfolio-Website/)
+- 👨‍💻 Visit My - [Website](https://codewithjaspreet.github.io/Portfolio-Website/)
 
-- 📝 Link to my Resume -[ https://drive.google.com/file/d/17K7AKZfx5JgqdmYTX8AEKnBUhhjR5w_x/view?usp=share_link)
+- 📝 Link to my - [Resume ](https://drive.google.com/file/d/17K7AKZfx5JgqdmYTX8AEKnBUhhjR5w_x/view?usp=share_link)
 
-- 📝 I regularly write articles on [https://jaspreetsodhi02.medium.com/](https://jaspreetsodhi02.medium.com/)
+- 📝 I regularly write articles on [Medium](https://jaspreetsodhi02.medium.com/)
 
-- ⚡ Leetcode Profile link   - https://leetcode.com/leetcodejassi/
+- ⚡ Leetcode Profile - [LEETCODE](https://leetcode.com/leetcodejassi/)
 
-- ⚡ Geeksforgeeks Profile link  https://auth.geeksforgeeks.org/user/jaspreetsodhi02/practice 
+- ⚡ Geeksforgeeks Profile - [GFG](https://auth.geeksforgeeks.org/user/jaspreetsodhi02/practice) 
 
-- ⚡ CodeStudio Profile link -  https://www.codingninjas.com/codestudio/profile/81c3ce70-954c-4d47-b5d4-a3fc6cec3d0e
+- ⚡ CodeStudio Profile - [CODESTUDIO](https://www.codingninjas.com/codestudio/profile/81c3ce70-954c-4d47-b5d4-a3fc6cec3d0e)
 
-- ⚡ InterviewBit Profile link   - https://www.interviewbit.com/profile/jaspreet-singh_181_463
+- ⚡ InterviewBit Profile - [INTERVIEW BIT](https://www.interviewbit.com/profile/jaspreet-singh_181_463)
 
-- 💬 Ask me about **React, Flutter , Frontend Development &  DSAlgo **
+- 🏆  Solved 500+ Questions on [LEETCODE](https://leetcode.com/leetcodejassi/)
 
-- 🏆  Solved 500+ Questions on Leetcode
+- 🏆  Institute Rank <= 26 among 1000+ CollegeMates on [GFG](https://auth.geeksforgeeks.org/user/jaspreetsodhi02/practice) 
 
-- 🏆  Institute Rank <= 26 among 1000+ CollegeMates on Geeksforgeeks
+- 📫  Drop an [EMAIL] (jaspreetsodhi02@gmail.com) to me !
 
-- 📫 How to reach me **jaspreetsodhi02@gmail.com**
+- 💪 Visit & Checkout me as a Content Creator  💪 - [INSTAGRAM]( https://www.instagram.com/talk.wid.tech/?hl=en) 
 
-- 💪 Visit & Checkout me as a Content Creator  💪 - https://talk-widtech.web.app/  ||  https://www.instagram.com/talk.wid.tech/?hl=en  
-
-- ⚡ Fun fact **I am Funny:)**
 
 
 <h3 align="left">Connect with me :</h3>
