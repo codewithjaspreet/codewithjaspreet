@@ -55,7 +55,7 @@ const jassi = {
 
 - 🏆  Institute Rank <= 26 among 1000+ CollegeMates on [GFG](https://auth.geeksforgeeks.org/user/jaspreetsodhi02/practice) 
 
-- 📫  Drop an [EMAIL] (jaspreetsodhi02@gmail.com) to me !
+- 📫  Drop an [EMAIL](jaspreetsodhi02@gmail.com) to me !
 
 - 💪 Visit & Checkout me as a Content Creator  💪 - [INSTAGRAM]( https://www.instagram.com/talk.wid.tech/?hl=en) 
 
