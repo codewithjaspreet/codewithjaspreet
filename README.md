@@ -39,7 +39,7 @@ const jassi = {
  ----
 <h1>Important Links ~ ~ </h1>
 
-- 👨‍💻 Visit My - [Website](https://codewithjaspreet.github.io/Portfolio-Website/)
+- 👨‍💻 Visit My - [Website](https://jaspreet.vercel.app/)
 
 - 📝 Link to my - [Resume ](https://drive.google.com/file/d/17K7AKZfx5JgqdmYTX8AEKnBUhhjR5w_x/view?usp=share_link)
 
