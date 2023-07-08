@@ -1,7 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> सत श्री अकाल (Satshriakal)🙏🏻, I'm Jaspreet Singh Sodhi! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
-<p><em>Deep Learning Research Intern at <a href="https://sites.google.com/iiti.ac.in/iiti-drishti-cps-foundation/home">IITI DRISHTI CPS FOUNDATION</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-<p><em>Flutter Developer at <a href="https://happsales.com/">HappSales</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Research Intern at <a href="https://sites.google.com/iiti.ac.in/iiti-drishti-cps-foundation/home">IITI DRISHTI CPS FOUNDATION</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 
 </em></p>
